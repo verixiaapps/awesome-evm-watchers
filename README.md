@@ -52,6 +52,7 @@ Excludes wallets, dexes, and aggregators (those are not watchers).
 - [Erigon](https://github.com/erigontech/erigon) - Performant full node; good for indexing.
 - [Reth](https://github.com/paradigmxyz/reth) - Modular Rust client; growing watcher ecosystem.
 - [Substreams](https://substreams.streamingfast.io/) - Streaming-first indexing primitives.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contributing
 
